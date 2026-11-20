@@ -1,0 +1,1381 @@
+{
+  "breakfast": {
+    "budget": {
+      "kcal": 663.0,
+      "kcal_left": 2650.0,
+      "over": false,
+      "protein": 36.0,
+      "protein_left": 145.0,
+      "slot": "breakfast"
+    },
+    "diet": "any",
+    "goal": "lean_bulk",
+    "suggestions": [
+      {
+        "carbs": 72.5,
+        "fat": 20.0,
+        "fiber": 6.3,
+        "id": "protein_smoothie",
+        "ingredients": [
+          {
+            "item": "milk",
+            "qty": 250.0,
+            "unit": "ml"
+          },
+          {
+            "item": "whey protein (30 g)",
+            "qty": 1.0,
+            "unit": "scoop"
+          },
+          {
+            "item": "banana, frozen is best",
+            "qty": 1.0,
+            "unit": ""
+          },
+          {
+            "item": "peanut butter",
+            "qty": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "item": "rolled oats",
+            "qty": 20.0,
+            "unit": "g"
+          },
+          {
+            "item": "ice",
+            "qty": 0.0,
+            "unit": ""
+          }
+        ],
+        "kcal": 650.0,
+        "kind": "vegetarian",
+        "minutes": 5,
+        "name": "Banana protein smoothie",
+        "portion": 1.25,
+        "protein": 50.0,
+        "reasons": [
+          "Fits your ~663 kcal breakfast budget",
+          "Covers the 36 g protein this meal needs",
+          "Ready in 5 minutes"
+        ],
+        "score": 0.789,
+        "serving": "1 large glass",
+        "steps": [
+          "Pour in the milk first, then add everything else to the blender.",
+          "Blend 45–60 seconds until smooth. Add ice or water to adjust the thickness."
+        ]
+      },
+      {
+        "carbs": 46.3,
+        "fat": 43.8,
+        "fiber": 11.3,
+        "id": "scrambled_avocado",
+        "ingredients": [
+          {
+            "item": "eggs",
+            "qty": 3.0,
+            "unit": ""
+          },
+          {
+            "item": "ripe avocado",
+            "qty": 0.5,
+            "unit": ""
+          },
+          {
+            "item": "wholewheat bread",
+            "qty": 2.0,
+            "unit": "slice"
+          },
+          {
+            "item": "butter",
+            "qty": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "item": "lemon",
+            "qty": 0.25,
+            "unit": ""
+          },
+          {
+            "item": "salt, pepper, chilli flakes",
+            "qty": 0.0,
+            "unit": ""
+          }
+        ],
+        "kcal": 715.0,
+        "kind": "egg",
+        "minutes": 10,
+        "name": "Scrambled eggs, avocado toast",
+        "portion": 1.25,
+        "protein": 36.3,
+        "reasons": [
+          "Fits your ~663 kcal breakfast budget",
+          "Covers the 36 g protein this meal needs",
+          "High in fibre"
+        ],
+        "score": 0.753,
+        "serving": "3 eggs, 2 slices",
+        "steps": [
+          "Toast the bread. Mash the avocado with salt, pepper and a squeeze of lemon, and spread it on the toast.",
+          "Whisk the eggs with a pinch of salt.",
+          "Melt the butter over low heat. Add the eggs and stir slowly with a spatula until just set and creamy, 2–3 minutes.",
+          "Spoon onto the toast and finish with chilli flakes."
+        ]
+      },
+      {
+        "carbs": 90.0,
+        "fat": 13.5,
+        "fiber": 9.0,
+        "id": "protein_oats",
+        "ingredients": [
+          {
+            "item": "rolled oats",
+            "qty": 50.0,
+            "unit": "g"
+          },
+          {
+            "item": "milk",
+            "qty": 200.0,
+            "unit": "ml"
+          },
+          {
+            "item": "whey protein (30 g)",
+            "qty": 1.0,
+            "unit": "scoop"
+          },
+          {
+            "item": "banana",
+            "qty": 0.5,
+            "unit": ""
+          },
+          {
+            "item": "cinnamon",
+            "qty": 0.0,
+            "unit": ""
+          }
+        ],
+        "kcal": 695.0,
+        "kind": "vegetarian",
+        "minutes": 5,
+        "name": "Overnight protein oats",
+        "portion": 1.5,
+        "protein": 57.0,
+        "reasons": [
+          "Fits your ~663 kcal breakfast budget",
+          "Covers the 36 g protein this meal needs",
+          "High in fibre",
+          "Ready in 5 minutes"
+        ],
+        "score": 0.775,
+        "serving": "1 jar",
+        "steps": [
+          "In a jar, stir the whey into the milk until smooth.",
+          "Add the oats and cinnamon, stir, cover and refrigerate overnight (at least 4 hours).",
+          "In the morning, top with sliced banana. Eat it cold, or warm it for 1 minute."
+        ]
+      },
+      {
+        "carbs": 49.5,
+        "fat": 10.5,
+        "fiber": 7.5,
+        "id": "egg_white_omelette",
+        "ingredients": [
+          {
+            "item": "egg whites",
+            "qty": 200.0,
+            "unit": "g"
+          },
+          {
+            "item": "spinach",
+            "qty": 1.0,
+            "unit": "cup"
+          },
+          {
+            "item": "bell pepper, diced",
+            "qty": 0.5,
+            "unit": ""
+          },
+          {
+            "item": "mushrooms, sliced",
+            "qty": 4.0,
+            "unit": ""
+          },
+          {
+            "item": "oil",
+            "qty": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "item": "wholewheat bread",
+            "qty": 2.0,
+            "unit": "slice"
+          },
+          {
+            "item": "salt, pepper, chilli flakes",
+            "qty": 0.0,
+            "unit": ""
+          }
+        ],
+        "kcal": 497.0,
+        "kind": "egg",
+        "minutes": 12,
+        "name": "Egg-white veggie omelette",
+        "portion": 1.5,
+        "protein": 46.5,
+        "reasons": [
+          "Covers the 36 g protein this meal needs"
+        ],
+        "score": 0.713,
+        "serving": "200 g whites, 2 slices",
+        "steps": [
+          "Sauté the mushrooms and pepper in the oil for 3 minutes, then add the spinach until it wilts.",
+          "Season the whites and pour them over the vegetables. Turn the heat to low.",
+          "Cover and cook 3–4 minutes until set, then fold and slide out.",
+          "Toast the bread and serve."
+        ]
+      },
+      {
+        "carbs": 91.5,
+        "fat": 27.0,
+        "fiber": 10.5,
+        "id": "pb_banana_toast",
+        "ingredients": [
+          {
+            "item": "wholewheat bread",
+            "qty": 2.0,
+            "unit": "slice"
+          },
+          {
+            "item": "peanut butter",
+            "qty": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "item": "banana",
+            "qty": 1.0,
+            "unit": ""
+          },
+          {
+            "item": "cinnamon",
+            "qty": 0.0,
+            "unit": ""
+          }
+        ],
+        "kcal": 683.0,
+        "kind": "vegan",
+        "minutes": 5,
+        "name": "Peanut butter banana toast",
+        "portion": 1.5,
+        "protein": 25.5,
+        "reasons": [
+          "Fits your ~663 kcal breakfast budget",
+          "High in fibre",
+          "Ready in 5 minutes"
+        ],
+        "score": 0.635,
+        "serving": "2 slices",
+        "steps": [
+          "Toast the bread.",
+          "Spread on the peanut butter, then top with banana slices and a pinch of cinnamon."
+        ]
+      },
+      {
+        "carbs": 73.5,
+        "fat": 6.0,
+        "fiber": 7.5,
+        "id": "yogurt_parfait",
+        "ingredients": [
+          {
+            "item": "plain Greek yogurt",
+            "qty": 250.0,
+            "unit": "g"
+          },
+          {
+            "item": "berries",
+            "qty": 100.0,
+            "unit": "g"
+          },
+          {
+            "item": "rolled oats",
+            "qty": 30.0,
+            "unit": "g"
+          },
+          {
+            "item": "honey",
+            "qty": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "item": "cinnamon",
+            "qty": 0.0,
+            "unit": ""
+          }
+        ],
+        "kcal": 509.0,
+        "kind": "vegetarian",
+        "minutes": 5,
+        "name": "Greek yogurt parfait",
+        "portion": 1.5,
+        "protein": 45.0,
+        "reasons": [
+          "Covers the 36 g protein this meal needs",
+          "Ready in 5 minutes"
+        ],
+        "score": 0.714,
+        "serving": "1 bowl",
+        "steps": [
+          "Optional: toast the oats in a dry pan for 2–3 minutes until fragrant.",
+          "Layer half the yogurt, then half the berries and oats in a glass. Repeat.",
+          "Drizzle with honey and add a pinch of cinnamon."
+        ]
+      }
+    ]
+  },
+  "dinner": {
+    "budget": {
+      "kcal": 825.0,
+      "kcal_left": 1100.0,
+      "over": false,
+      "protein": 52.0,
+      "protein_left": 70.0,
+      "slot": "dinner"
+    },
+    "diet": "any",
+    "goal": "lean_bulk",
+    "suggestions": [
+      {
+        "carbs": 57.5,
+        "fat": 27.5,
+        "fiber": 6.3,
+        "id": "chicken_curry_roti",
+        "ingredients": [
+          {
+            "item": "chicken, boneless",
+            "qty": 150.0,
+            "unit": "g"
+          },
+          {
+            "item": "onion, finely chopped",
+            "qty": 1.0,
+            "unit": ""
+          },
+          {
+            "item": "tomato, puréed",
+            "qty": 1.0,
+            "unit": ""
+          },
+          {
+            "item": "ginger-garlic paste",
+            "qty": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "item": "oil",
+            "qty": 2.0,
+            "unit": "tsp"
+          },
+          {
+            "item": "water",
+            "qty": 150.0,
+            "unit": "ml"
+          },
+          {
+            "item": "roti",
+            "qty": 2.0,
+            "unit": ""
+          },
+          {
+            "item": "turmeric, chilli, coriander powder, garam masala, salt",
+            "qty": 0.0,
+            "unit": ""
+          }
+        ],
+        "kcal": 798.0,
+        "kind": "meat",
+        "minutes": 35,
+        "name": "Chicken curry with roti",
+        "portion": 1.25,
+        "protein": 67.5,
+        "reasons": [
+          "Fits your ~825 kcal dinner budget",
+          "Covers the 52 g protein this meal needs"
+        ],
+        "score": 0.792,
+        "serving": "150 g chicken, 2 roti",
+        "steps": [
+          "Heat the oil and brown the onion, 6–8 minutes.",
+          "Add the ginger-garlic paste for 1 minute, then the tomato and spices. Cook until the oil separates.",
+          "Add the chicken and coat it, then pour in the water. Cover and simmer 15–18 minutes.",
+          "Finish with garam masala and coriander, and serve with roti."
+        ]
+      },
+      {
+        "carbs": 82.5,
+        "fat": 27.5,
+        "fiber": 8.8,
+        "id": "tofu_stir_fry",
+        "ingredients": [
+          {
+            "item": "firm tofu",
+            "qty": 200.0,
+            "unit": "g"
+          },
+          {
+            "item": "cornflour",
+            "qty": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "item": "broccoli florets",
+            "qty": 1.0,
+            "unit": "cup"
+          },
+          {
+            "item": "bell pepper, sliced",
+            "qty": 0.5,
+            "unit": ""
+          },
+          {
+            "item": "soy sauce",
+            "qty": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "item": "garlic clove",
+            "qty": 1.0,
+            "unit": ""
+          },
+          {
+            "item": "oil",
+            "qty": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "item": "rice",
+            "qty": 60.0,
+            "unit": "g"
+          }
+        ],
+        "kcal": 754.0,
+        "kind": "vegan",
+        "minutes": 20,
+        "name": "Tofu stir-fry with rice",
+        "portion": 1.25,
+        "protein": 52.5,
+        "reasons": [
+          "Fits your ~825 kcal dinner budget",
+          "Covers the 52 g protein this meal needs",
+          "High in fibre"
+        ],
+        "score": 0.769,
+        "serving": "200 g tofu, 1 cup rice",
+        "steps": [
+          "Press the tofu for 10 minutes, cube it, and toss in the cornflour.",
+          "Pan-fry in the oil until golden on all sides, 6–8 minutes, then set aside.",
+          "Stir-fry the garlic, broccoli and pepper for 3 minutes. Return the tofu with the soy sauce and toss.",
+          "Serve over the cooked rice."
+        ]
+      },
+      {
+        "carbs": 64.5,
+        "fat": 27.0,
+        "fiber": 9.0,
+        "id": "grilled_fish_potatoes",
+        "ingredients": [
+          {
+            "item": "salmon or rohu fillet",
+            "qty": 150.0,
+            "unit": "g"
+          },
+          {
+            "item": "medium potato",
+            "qty": 1.0,
+            "unit": ""
+          },
+          {
+            "item": "greens: spinach or beans",
+            "qty": 2.0,
+            "unit": "cup"
+          },
+          {
+            "item": "garlic clove",
+            "qty": 1.0,
+            "unit": ""
+          },
+          {
+            "item": "lemon",
+            "qty": 0.5,
+            "unit": ""
+          },
+          {
+            "item": "salt, pepper, paprika",
+            "qty": 0.0,
+            "unit": ""
+          }
+        ],
+        "kcal": 765.0,
+        "kind": "fish",
+        "minutes": 25,
+        "name": "Grilled fish, potatoes & greens",
+        "portion": 1.5,
+        "protein": 60.0,
+        "reasons": [
+          "Fits your ~825 kcal dinner budget",
+          "Covers the 52 g protein this meal needs",
+          "High in fibre"
+        ],
+        "score": 0.763,
+        "serving": "150 g fish",
+        "steps": [
+          "Cook the potato until tender: 8 minutes in the microwave or 45 in the oven.",
+          "Season the fish. Sear it skin-side down for 4 minutes, flip, and cook 2–3 minutes more.",
+          "Sauté the greens with the garlic for 2 minutes.",
+          "Plate with a wedge of lemon."
+        ]
+      },
+      {
+        "carbs": 82.5,
+        "fat": 15.0,
+        "fiber": 6.0,
+        "id": "chicken_rice_bowl",
+        "ingredients": [
+          {
+            "item": "chicken breast",
+            "qty": 150.0,
+            "unit": "g"
+          },
+          {
+            "item": "rice, uncooked (1 cup cooked)",
+            "qty": 60.0,
+            "unit": "g"
+          },
+          {
+            "item": "mixed vegetables: broccoli, peppers, carrot",
+            "qty": 1.5,
+            "unit": "cup"
+          },
+          {
+            "item": "oil",
+            "qty": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "item": "lime",
+            "qty": 0.5,
+            "unit": ""
+          },
+          {
+            "item": "salt, pepper, paprika, garlic powder",
+            "qty": 0.0,
+            "unit": ""
+          }
+        ],
+        "kcal": 815.0,
+        "kind": "meat",
+        "minutes": 25,
+        "name": "Chicken rice bowl",
+        "portion": 1.5,
+        "protein": 78.0,
+        "reasons": [
+          "Fits your ~825 kcal dinner budget",
+          "Covers the 52 g protein this meal needs"
+        ],
+        "score": 0.789,
+        "serving": "150 g chicken, 1 cup rice",
+        "steps": [
+          "Cook the rice in twice its volume of water, about 15 minutes.",
+          "Season the chicken with salt, pepper, paprika and garlic powder.",
+          "Sear it in the oil over medium-high heat, 5–6 minutes a side, until it reaches 74 °C inside. Rest 5 minutes, then slice.",
+          "Stir-fry the vegetables in the same pan for 4 minutes.",
+          "Build the bowl: rice, then vegetables, then chicken. Squeeze over the lime."
+        ]
+      },
+      {
+        "carbs": 43.5,
+        "fat": 45.0,
+        "fiber": 7.5,
+        "id": "paneer_tikka_plate",
+        "ingredients": [
+          {
+            "item": "paneer, cubed",
+            "qty": 120.0,
+            "unit": "g"
+          },
+          {
+            "item": "hung curd or Greek yogurt",
+            "qty": 3.0,
+            "unit": "tbsp"
+          },
+          {
+            "item": "capsicum, in chunks",
+            "qty": 0.5,
+            "unit": ""
+          },
+          {
+            "item": "onion, in chunks",
+            "qty": 0.5,
+            "unit": ""
+          },
+          {
+            "item": "tikka masala",
+            "qty": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "item": "roti",
+            "qty": 1.0,
+            "unit": ""
+          },
+          {
+            "item": "lemon, salt, mint chutney, salad",
+            "qty": 0.0,
+            "unit": ""
+          }
+        ],
+        "kcal": 762.0,
+        "kind": "vegetarian",
+        "minutes": 25,
+        "name": "Paneer tikka, salad & roti",
+        "portion": 1.5,
+        "protein": 43.5,
+        "reasons": [
+          "Fits your ~825 kcal dinner budget",
+          "62% of the protein you have left today"
+        ],
+        "score": 0.68,
+        "serving": "120 g paneer, 1 roti",
+        "steps": [
+          "Mix the yogurt, tikka masala, salt and lemon. Coat the paneer and vegetables and rest 15 minutes.",
+          "Skewer them and grill, air-fry at 200 °C, or pan-roast for 8–10 minutes, turning, until charred at the edges.",
+          "Serve with salad, roti and mint chutney."
+        ]
+      },
+      {
+        "carbs": 78.0,
+        "fat": 13.5,
+        "fiber": 6.0,
+        "id": "prawn_noodles",
+        "ingredients": [
+          {
+            "item": "prawns, peeled",
+            "qty": 150.0,
+            "unit": "g"
+          },
+          {
+            "item": "dry noodles",
+            "qty": 60.0,
+            "unit": "g"
+          },
+          {
+            "item": "bok choy",
+            "qty": 1.0,
+            "unit": "cup"
+          },
+          {
+            "item": "bell pepper, sliced",
+            "qty": 0.5,
+            "unit": ""
+          },
+          {
+            "item": "soy sauce",
+            "qty": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "item": "grated ginger",
+            "qty": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "item": "garlic clove",
+            "qty": 1.0,
+            "unit": ""
+          },
+          {
+            "item": "oil",
+            "qty": 1.0,
+            "unit": "tsp"
+          }
+        ],
+        "kcal": 705.0,
+        "kind": "fish",
+        "minutes": 20,
+        "name": "Prawn stir-fry noodles",
+        "portion": 1.5,
+        "protein": 63.0,
+        "reasons": [
+          "Fits your ~825 kcal dinner budget",
+          "Covers the 52 g protein this meal needs"
+        ],
+        "score": 0.736,
+        "serving": "1 bowl",
+        "steps": [
+          "Cook the noodles as the pack says, then drain and rinse.",
+          "Stir-fry the garlic and ginger in the oil for 30 seconds. Add the prawns and cook 2 minutes until pink.",
+          "Add the vegetables for 2 minutes, then the noodles and soy sauce. Toss over high heat for 1 minute."
+        ]
+      }
+    ]
+  },
+  "lunch": {
+    "budget": {
+      "kcal": 1027.0,
+      "kcal_left": 2200.0,
+      "over": false,
+      "protein": 56.0,
+      "protein_left": 120.0,
+      "slot": "lunch"
+    },
+    "diet": "any",
+    "goal": "lean_bulk",
+    "suggestions": [
+      {
+        "carbs": 69.0,
+        "fat": 33.0,
+        "fiber": 7.5,
+        "id": "chicken_curry_roti",
+        "ingredients": [
+          {
+            "item": "chicken, boneless",
+            "qty": 150.0,
+            "unit": "g"
+          },
+          {
+            "item": "onion, finely chopped",
+            "qty": 1.0,
+            "unit": ""
+          },
+          {
+            "item": "tomato, puréed",
+            "qty": 1.0,
+            "unit": ""
+          },
+          {
+            "item": "ginger-garlic paste",
+            "qty": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "item": "oil",
+            "qty": 2.0,
+            "unit": "tsp"
+          },
+          {
+            "item": "water",
+            "qty": 150.0,
+            "unit": "ml"
+          },
+          {
+            "item": "roti",
+            "qty": 2.0,
+            "unit": ""
+          },
+          {
+            "item": "turmeric, chilli, coriander powder, garam masala, salt",
+            "qty": 0.0,
+            "unit": ""
+          }
+        ],
+        "kcal": 957.0,
+        "kind": "meat",
+        "minutes": 35,
+        "name": "Chicken curry with roti",
+        "portion": 1.5,
+        "protein": 81.0,
+        "reasons": [
+          "Fits your ~1027 kcal lunch budget",
+          "Covers the 56 g protein this meal needs"
+        ],
+        "score": 0.768,
+        "serving": "150 g chicken, 2 roti",
+        "steps": [
+          "Heat the oil and brown the onion, 6–8 minutes.",
+          "Add the ginger-garlic paste for 1 minute, then the tomato and spices. Cook until the oil separates.",
+          "Add the chicken and coat it, then pour in the water. Cover and simmer 15–18 minutes.",
+          "Finish with garam masala and coriander, and serve with roti."
+        ]
+      },
+      {
+        "carbs": 99.0,
+        "fat": 33.0,
+        "fiber": 10.5,
+        "id": "tofu_stir_fry",
+        "ingredients": [
+          {
+            "item": "firm tofu",
+            "qty": 200.0,
+            "unit": "g"
+          },
+          {
+            "item": "cornflour",
+            "qty": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "item": "broccoli florets",
+            "qty": 1.0,
+            "unit": "cup"
+          },
+          {
+            "item": "bell pepper, sliced",
+            "qty": 0.5,
+            "unit": ""
+          },
+          {
+            "item": "soy sauce",
+            "qty": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "item": "garlic clove",
+            "qty": 1.0,
+            "unit": ""
+          },
+          {
+            "item": "oil",
+            "qty": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "item": "rice",
+            "qty": 60.0,
+            "unit": "g"
+          }
+        ],
+        "kcal": 905.0,
+        "kind": "vegan",
+        "minutes": 20,
+        "name": "Tofu stir-fry with rice",
+        "portion": 1.5,
+        "protein": 63.0,
+        "reasons": [
+          "Fits your ~1027 kcal lunch budget",
+          "Covers the 56 g protein this meal needs",
+          "High in fibre"
+        ],
+        "score": 0.738,
+        "serving": "200 g tofu, 1 cup rice",
+        "steps": [
+          "Press the tofu for 10 minutes, cube it, and toss in the cornflour.",
+          "Pan-fry in the oil until golden on all sides, 6–8 minutes, then set aside.",
+          "Stir-fry the garlic, broccoli and pepper for 3 minutes. Return the tofu with the soy sauce and toss.",
+          "Serve over the cooked rice."
+        ]
+      },
+      {
+        "carbs": 64.5,
+        "fat": 27.0,
+        "fiber": 9.0,
+        "id": "grilled_fish_potatoes",
+        "ingredients": [
+          {
+            "item": "salmon or rohu fillet",
+            "qty": 150.0,
+            "unit": "g"
+          },
+          {
+            "item": "medium potato",
+            "qty": 1.0,
+            "unit": ""
+          },
+          {
+            "item": "greens: spinach or beans",
+            "qty": 2.0,
+            "unit": "cup"
+          },
+          {
+            "item": "garlic clove",
+            "qty": 1.0,
+            "unit": ""
+          },
+          {
+            "item": "lemon",
+            "qty": 0.5,
+            "unit": ""
+          },
+          {
+            "item": "salt, pepper, paprika",
+            "qty": 0.0,
+            "unit": ""
+          }
+        ],
+        "kcal": 765.0,
+        "kind": "fish",
+        "minutes": 25,
+        "name": "Grilled fish, potatoes & greens",
+        "portion": 1.5,
+        "protein": 60.0,
+        "reasons": [
+          "Covers the 56 g protein this meal needs",
+          "High in fibre"
+        ],
+        "score": 0.699,
+        "serving": "150 g fish",
+        "steps": [
+          "Cook the potato until tender: 8 minutes in the microwave or 45 in the oven.",
+          "Season the fish. Sear it skin-side down for 4 minutes, flip, and cook 2–3 minutes more.",
+          "Sauté the greens with the garlic for 2 minutes.",
+          "Plate with a wedge of lemon."
+        ]
+      },
+      {
+        "carbs": 114.0,
+        "fat": 13.5,
+        "fiber": 9.0,
+        "id": "chicken_pasta",
+        "ingredients": [
+          {
+            "item": "dry pasta",
+            "qty": 75.0,
+            "unit": "g"
+          },
+          {
+            "item": "chicken breast, diced",
+            "qty": 100.0,
+            "unit": "g"
+          },
+          {
+            "item": "canned chopped tomatoes",
+            "qty": 200.0,
+            "unit": "g"
+          },
+          {
+            "item": "garlic cloves, sliced",
+            "qty": 2.0,
+            "unit": ""
+          },
+          {
+            "item": "olive oil",
+            "qty": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "item": "basil, salt, chilli flakes",
+            "qty": 0.0,
+            "unit": ""
+          }
+        ],
+        "kcal": 863.0,
+        "kind": "meat",
+        "minutes": 25,
+        "name": "Chicken & tomato pasta",
+        "portion": 1.5,
+        "protein": 67.5,
+        "reasons": [
+          "Covers the 56 g protein this meal needs",
+          "High in fibre"
+        ],
+        "score": 0.732,
+        "serving": "1 plate",
+        "steps": [
+          "Boil the pasta in salted water until al dente, and keep a splash of the water.",
+          "Sear the chicken in the oil for 5–6 minutes, then add the garlic for 30 seconds.",
+          "Add the tomatoes and simmer 8 minutes.",
+          "Toss in the pasta with a splash of pasta water, and finish with basil."
+        ]
+      },
+      {
+        "carbs": 78.0,
+        "fat": 13.5,
+        "fiber": 6.0,
+        "id": "prawn_noodles",
+        "ingredients": [
+          {
+            "item": "prawns, peeled",
+            "qty": 150.0,
+            "unit": "g"
+          },
+          {
+            "item": "dry noodles",
+            "qty": 60.0,
+            "unit": "g"
+          },
+          {
+            "item": "bok choy",
+            "qty": 1.0,
+            "unit": "cup"
+          },
+          {
+            "item": "bell pepper, sliced",
+            "qty": 0.5,
+            "unit": ""
+          },
+          {
+            "item": "soy sauce",
+            "qty": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "item": "grated ginger",
+            "qty": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "item": "garlic clove",
+            "qty": 1.0,
+            "unit": ""
+          },
+          {
+            "item": "oil",
+            "qty": 1.0,
+            "unit": "tsp"
+          }
+        ],
+        "kcal": 705.0,
+        "kind": "fish",
+        "minutes": 20,
+        "name": "Prawn stir-fry noodles",
+        "portion": 1.5,
+        "protein": 63.0,
+        "reasons": [
+          "Covers the 56 g protein this meal needs"
+        ],
+        "score": 0.677,
+        "serving": "1 bowl",
+        "steps": [
+          "Cook the noodles as the pack says, then drain and rinse.",
+          "Stir-fry the garlic and ginger in the oil for 30 seconds. Add the prawns and cook 2 minutes until pink.",
+          "Add the vegetables for 2 minutes, then the noodles and soy sauce. Toss over high heat for 1 minute."
+        ]
+      },
+      {
+        "carbs": 82.5,
+        "fat": 15.0,
+        "fiber": 6.0,
+        "id": "chicken_rice_bowl",
+        "ingredients": [
+          {
+            "item": "chicken breast",
+            "qty": 150.0,
+            "unit": "g"
+          },
+          {
+            "item": "rice, uncooked (1 cup cooked)",
+            "qty": 60.0,
+            "unit": "g"
+          },
+          {
+            "item": "mixed vegetables: broccoli, peppers, carrot",
+            "qty": 1.5,
+            "unit": "cup"
+          },
+          {
+            "item": "oil",
+            "qty": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "item": "lime",
+            "qty": 0.5,
+            "unit": ""
+          },
+          {
+            "item": "salt, pepper, paprika, garlic powder",
+            "qty": 0.0,
+            "unit": ""
+          }
+        ],
+        "kcal": 815.0,
+        "kind": "meat",
+        "minutes": 25,
+        "name": "Chicken rice bowl",
+        "portion": 1.5,
+        "protein": 78.0,
+        "reasons": [
+          "Covers the 56 g protein this meal needs"
+        ],
+        "score": 0.721,
+        "serving": "150 g chicken, 1 cup rice",
+        "steps": [
+          "Cook the rice in twice its volume of water, about 15 minutes.",
+          "Season the chicken with salt, pepper, paprika and garlic powder.",
+          "Sear it in the oil over medium-high heat, 5–6 minutes a side, until it reaches 74 °C inside. Rest 5 minutes, then slice.",
+          "Stir-fry the vegetables in the same pan for 4 minutes.",
+          "Build the bowl: rice, then vegetables, then chicken. Squeeze over the lime."
+        ]
+      }
+    ]
+  },
+  "snack": {
+    "budget": {
+      "kcal": 300.0,
+      "kcal_left": 300.0,
+      "over": false,
+      "protein": 25.0,
+      "protein_left": 25.0,
+      "slot": "snack"
+    },
+    "diet": "any",
+    "goal": "lean_bulk",
+    "suggestions": [
+      {
+        "carbs": 37.5,
+        "fat": 2.5,
+        "fiber": 3.8,
+        "id": "banana_whey",
+        "ingredients": [
+          {
+            "item": "banana",
+            "qty": 1.0,
+            "unit": ""
+          },
+          {
+            "item": "whey protein (30 g)",
+            "qty": 1.0,
+            "unit": "scoop"
+          },
+          {
+            "item": "water",
+            "qty": 300.0,
+            "unit": "ml"
+          }
+        ],
+        "kcal": 281.0,
+        "kind": "vegetarian",
+        "minutes": 2,
+        "name": "Banana & whey",
+        "portion": 1.25,
+        "protein": 31.3,
+        "reasons": [
+          "Fits your ~300 kcal snack budget",
+          "Covers the 25 g protein this meal needs",
+          "Ready in 5 minutes"
+        ],
+        "score": 0.782,
+        "serving": "1 banana, 1 scoop",
+        "steps": [
+          "Shake the whey with the water and eat the banana alongside. Good 30–60 minutes before training."
+        ]
+      },
+      {
+        "carbs": 24.0,
+        "fat": 7.5,
+        "fiber": 3.8,
+        "id": "chicken_sandwich",
+        "ingredients": [
+          {
+            "item": "cooked chicken breast",
+            "qty": 100.0,
+            "unit": "g"
+          },
+          {
+            "item": "wholewheat bread",
+            "qty": 2.0,
+            "unit": "slice"
+          },
+          {
+            "item": "lettuce leaves",
+            "qty": 2.0,
+            "unit": ""
+          },
+          {
+            "item": "tomato, sliced",
+            "qty": 0.5,
+            "unit": ""
+          },
+          {
+            "item": "light mayo",
+            "qty": 1.0,
+            "unit": "tbsp"
+          },
+          {
+            "item": "mustard, pepper",
+            "qty": 0.0,
+            "unit": ""
+          }
+        ],
+        "kcal": 285.0,
+        "kind": "meat",
+        "minutes": 10,
+        "name": "Chicken sandwich",
+        "portion": 0.75,
+        "protein": 27.0,
+        "reasons": [
+          "Fits your ~300 kcal snack budget",
+          "Covers the 25 g protein this meal needs"
+        ],
+        "score": 0.781,
+        "serving": "1 sandwich",
+        "steps": [
+          "Shred or slice the chicken and mix it with the mayo, a little mustard and pepper.",
+          "Layer on the bread with the lettuce and tomato. Toast it in a pan if you like it warm."
+        ]
+      },
+      {
+        "carbs": 30.0,
+        "fat": 5.3,
+        "fiber": 3.0,
+        "id": "tuna_wrap",
+        "ingredients": [
+          {
+            "item": "tuna, drained",
+            "qty": 100.0,
+            "unit": "g"
+          },
+          {
+            "item": "large wholewheat tortilla",
+            "qty": 1.0,
+            "unit": ""
+          },
+          {
+            "item": "Greek yogurt",
+            "qty": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "item": "red onion, finely chopped",
+            "qty": 0.25,
+            "unit": ""
+          },
+          {
+            "item": "lettuce",
+            "qty": 1.0,
+            "unit": "cup"
+          },
+          {
+            "item": "lemon, pepper",
+            "qty": 0.0,
+            "unit": ""
+          }
+        ],
+        "kcal": 282.0,
+        "kind": "fish",
+        "minutes": 10,
+        "name": "Tuna salad wrap",
+        "portion": 0.75,
+        "protein": 25.5,
+        "reasons": [
+          "Fits your ~300 kcal snack budget",
+          "Covers the 25 g protein this meal needs"
+        ],
+        "score": 0.768,
+        "serving": "1 wrap",
+        "steps": [
+          "Mix the tuna with the yogurt, onion, lemon and pepper.",
+          "Warm the tortilla for 20 seconds in a dry pan.",
+          "Fill with the lettuce and tuna, roll it tightly, and halve."
+        ]
+      },
+      {
+        "carbs": 49.0,
+        "fat": 4.0,
+        "fiber": 5.0,
+        "id": "yogurt_parfait",
+        "ingredients": [
+          {
+            "item": "plain Greek yogurt",
+            "qty": 250.0,
+            "unit": "g"
+          },
+          {
+            "item": "berries",
+            "qty": 100.0,
+            "unit": "g"
+          },
+          {
+            "item": "rolled oats",
+            "qty": 30.0,
+            "unit": "g"
+          },
+          {
+            "item": "honey",
+            "qty": 1.0,
+            "unit": "tsp"
+          },
+          {
+            "item": "cinnamon",
+            "qty": 0.0,
+            "unit": ""
+          }
+        ],
+        "kcal": 339.0,
+        "kind": "vegetarian",
+        "minutes": 5,
+        "name": "Greek yogurt parfait",
+        "portion": 1.0,
+        "protein": 30.0,
+        "reasons": [
+          "Fits your ~300 kcal snack budget",
+          "Covers the 25 g protein this meal needs",
+          "Ready in 5 minutes"
+        ],
+        "score": 0.774,
+        "serving": "1 bowl",
+        "steps": [
+          "Optional: toast the oats in a dry pan for 2–3 minutes until fragrant.",
+          "Layer half the yogurt, then half the berries and oats in a glass. Repeat.",
+          "Drizzle with honey and add a pinch of cinnamon."
+        ]
+      },
+      {
+        "carbs": 1.5,
+        "fat": 15.0,
+        "fiber": 0.0,
+        "id": "boiled_eggs",
+        "ingredients": [
+          {
+            "item": "eggs",
+            "qty": 2.0,
+            "unit": ""
+          },
+          {
+            "item": "salt, pepper",
+            "qty": 0.0,
+            "unit": ""
+          }
+        ],
+        "kcal": 216.0,
+        "kind": "egg",
+        "minutes": 10,
+        "name": "Boiled eggs",
+        "portion": 1.5,
+        "protein": 19.5,
+        "reasons": [
+          "78% of the protein you have left today"
+        ],
+        "score": 0.575,
+        "serving": "2 eggs",
+        "steps": [
+          "Lower the eggs into boiling water. Cook 9 minutes for firm yolks, 7 for jammy.",
+          "Cool in cold water for 2 minutes, then peel and season."
+        ]
+      },
+      {
+        "carbs": 1.5,
+        "fat": 24.0,
+        "fiber": 0.0,
+        "id": "paneer_cubes",
+        "ingredients": [
+          {
+            "item": "paneer",
+            "qty": 75.0,
+            "unit": "g"
+          },
+          {
+            "item": "chaat masala, lemon",
+            "qty": 0.0,
+            "unit": ""
+          }
+        ],
+        "kcal": 299.0,
+        "kind": "vegetarian",
+        "minutes": 2,
+        "name": "Paneer cubes with chaat masala",
+        "portion": 1.5,
+        "protein": 21.0,
+        "reasons": [
+          "Fits your ~300 kcal snack budget",
+          "84% of the protein you have left today",
+          "Ready in 5 minutes"
+        ],
+        "score": 0.673,
+        "serving": "75 g",
+        "steps": [
+          "Cube the paneer. If you like, sear it 1 minute a side in a dry pan.",
+          "Sprinkle with chaat masala and a squeeze of lemon."
+        ]
+      }
+    ]
+  }
+}

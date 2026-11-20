@@ -1,0 +1,626 @@
+{
+  "version": 1,
+  "year": 2026,
+  "profile": {
+    "sex": "male",
+    "birth_year": 1996,
+    "height_cm": 178.0,
+    "weight_kg": 80.0,
+    "body_fat": null,
+    "goal": "lean_bulk",
+    "pace": "standard",
+    "goal_weight_kg": null,
+    "experience": "intermediate",
+    "days": 4,
+    "session_min": 75,
+    "equipment": "gym",
+    "focus": [
+      "arms"
+    ],
+    "limits": [],
+    "lifestyle": "desk"
+  },
+  "nutrition": {
+    "method": "Mifflin–St Jeor",
+    "bmi": 25.200000000000003,
+    "lean_mass_kg": null,
+    "bmr": 1768.0,
+    "activity_factor": 1.25,
+    "training_kcal": 240.0,
+    "tdee": 2449.0,
+    "rate_kg_week": 0.18,
+    "kcal": 2650.0,
+    "training_day_kcal": 2740.0,
+    "rest_day_kcal": 2530.0,
+    "protein": 145.0,
+    "carbs": 340.0,
+    "fat": 80.0,
+    "fiber": 37.0,
+    "water_ml": 3000.0,
+    "steps": 8000,
+    "phase_weeks": 20,
+    "weeks_to_goal": null
+  },
+  "training": {
+    "split": "Upper / lower",
+    "days_per_week": 4,
+    "schedule": [
+      0,
+      1,
+      null,
+      2,
+      3,
+      null,
+      null
+    ],
+    "sessions": [
+      {
+        "key": "upper_a",
+        "name": "Upper A",
+        "focus": "Horizontal press & pull",
+        "minutes": 74,
+        "exercises": [
+          {
+            "exercise_id": "bench",
+            "name": "Bench press",
+            "pattern": "horizontal_press",
+            "muscle": "chest",
+            "tier": 1,
+            "sets": 4,
+            "rep_low": 5,
+            "rep_high": 8,
+            "rir": 2,
+            "rest_s": 150,
+            "step_kg": 2.5,
+            "note": null
+          },
+          {
+            "exercise_id": "chest_supported_row",
+            "name": "Chest-supported row",
+            "pattern": "horizontal_pull",
+            "muscle": "back",
+            "tier": 1,
+            "sets": 3,
+            "rep_low": 5,
+            "rep_high": 8,
+            "rir": 2,
+            "rest_s": 150,
+            "step_kg": 5.0,
+            "note": null
+          },
+          {
+            "exercise_id": "ohp",
+            "name": "Overhead press",
+            "pattern": "vertical_press",
+            "muscle": "shoulders",
+            "tier": 2,
+            "sets": 2,
+            "rep_low": 8,
+            "rep_high": 12,
+            "rir": 2,
+            "rest_s": 120,
+            "step_kg": 2.5,
+            "note": null
+          },
+          {
+            "exercise_id": "lat_pulldown",
+            "name": "Lat pulldown",
+            "pattern": "vertical_pull",
+            "muscle": "back",
+            "tier": 2,
+            "sets": 2,
+            "rep_low": 8,
+            "rep_high": 12,
+            "rir": 2,
+            "rest_s": 120,
+            "step_kg": 5.0,
+            "note": null
+          },
+          {
+            "exercise_id": "cable_lateral",
+            "name": "Cable lateral raise",
+            "pattern": "lateral_raise",
+            "muscle": "shoulders",
+            "tier": 3,
+            "sets": 2,
+            "rep_low": 12,
+            "rep_high": 20,
+            "rir": 1,
+            "rest_s": 75,
+            "step_kg": 1.25,
+            "note": null
+          },
+          {
+            "exercise_id": "ez_curl",
+            "name": "EZ-bar curl",
+            "pattern": "curl",
+            "muscle": "biceps",
+            "tier": 3,
+            "sets": 4,
+            "rep_low": 12,
+            "rep_high": 20,
+            "rir": 1,
+            "rest_s": 75,
+            "step_kg": 2.5,
+            "note": null
+          },
+          {
+            "exercise_id": "pushdown",
+            "name": "Cable pushdown",
+            "pattern": "triceps_extension",
+            "muscle": "triceps",
+            "tier": 3,
+            "sets": 4,
+            "rep_low": 12,
+            "rep_high": 20,
+            "rir": 1,
+            "rest_s": 75,
+            "step_kg": 2.5,
+            "note": null
+          },
+          {
+            "exercise_id": "incline_curl",
+            "name": "Incline dumbbell curl",
+            "pattern": "curl",
+            "muscle": "biceps",
+            "tier": 3,
+            "sets": 4,
+            "rep_low": 12,
+            "rep_high": 20,
+            "rir": 1,
+            "rest_s": 75,
+            "step_kg": 1.0,
+            "note": null
+          }
+        ]
+      },
+      {
+        "key": "lower_a",
+        "name": "Lower A",
+        "focus": "Squat-led",
+        "minutes": 69,
+        "exercises": [
+          {
+            "exercise_id": "back_squat",
+            "name": "Back squat",
+            "pattern": "squat",
+            "muscle": "quads",
+            "tier": 1,
+            "sets": 4,
+            "rep_low": 5,
+            "rep_high": 8,
+            "rir": 2,
+            "rest_s": 150,
+            "step_kg": 5.0,
+            "note": null
+          },
+          {
+            "exercise_id": "rdl",
+            "name": "Romanian deadlift",
+            "pattern": "hinge",
+            "muscle": "hamstrings",
+            "tier": 2,
+            "sets": 3,
+            "rep_low": 8,
+            "rep_high": 12,
+            "rir": 2,
+            "rest_s": 120,
+            "step_kg": 5.0,
+            "note": null
+          },
+          {
+            "exercise_id": "leg_extension",
+            "name": "Leg extension",
+            "pattern": "knee_extension",
+            "muscle": "quads",
+            "tier": 3,
+            "sets": 4,
+            "rep_low": 12,
+            "rep_high": 20,
+            "rir": 1,
+            "rest_s": 75,
+            "step_kg": 5.0,
+            "note": null
+          },
+          {
+            "exercise_id": "seated_leg_curl",
+            "name": "Seated leg curl",
+            "pattern": "knee_flexion",
+            "muscle": "hamstrings",
+            "tier": 3,
+            "sets": 3,
+            "rep_low": 12,
+            "rep_high": 20,
+            "rir": 1,
+            "rest_s": 75,
+            "step_kg": 5.0,
+            "note": null
+          },
+          {
+            "exercise_id": "hip_thrust",
+            "name": "Barbell hip thrust",
+            "pattern": "hip_thrust",
+            "muscle": "glutes",
+            "tier": 3,
+            "sets": 4,
+            "rep_low": 12,
+            "rep_high": 20,
+            "rir": 1,
+            "rest_s": 75,
+            "step_kg": 5.0,
+            "note": null
+          },
+          {
+            "exercise_id": "standing_calf",
+            "name": "Standing calf raise",
+            "pattern": "calf",
+            "muscle": "calves",
+            "tier": 3,
+            "sets": 4,
+            "rep_low": 12,
+            "rep_high": 20,
+            "rir": 1,
+            "rest_s": 75,
+            "step_kg": 5.0,
+            "note": null
+          },
+          {
+            "exercise_id": "cable_crunch",
+            "name": "Cable crunch",
+            "pattern": "core",
+            "muscle": "abs",
+            "tier": 3,
+            "sets": 4,
+            "rep_low": 12,
+            "rep_high": 20,
+            "rir": 1,
+            "rest_s": 75,
+            "step_kg": 2.5,
+            "note": null
+          }
+        ]
+      },
+      {
+        "key": "upper_b",
+        "name": "Upper B",
+        "focus": "Incline & vertical pull",
+        "minutes": 74,
+        "exercises": [
+          {
+            "exercise_id": "incline_bench",
+            "name": "Incline bench press",
+            "pattern": "incline_press",
+            "muscle": "chest",
+            "tier": 1,
+            "sets": 4,
+            "rep_low": 5,
+            "rep_high": 8,
+            "rir": 2,
+            "rest_s": 150,
+            "step_kg": 2.5,
+            "note": null
+          },
+          {
+            "exercise_id": "pull_up",
+            "name": "Pull-up",
+            "pattern": "vertical_pull",
+            "muscle": "back",
+            "tier": 1,
+            "sets": 4,
+            "rep_low": 8,
+            "rep_high": 15,
+            "rir": 2,
+            "rest_s": 150,
+            "step_kg": 0.0,
+            "note": "When the top of the range is easy, slow the lowering to 3 s, then add load."
+          },
+          {
+            "exercise_id": "barbell_row",
+            "name": "Barbell row",
+            "pattern": "horizontal_pull",
+            "muscle": "back",
+            "tier": 2,
+            "sets": 2,
+            "rep_low": 8,
+            "rep_high": 12,
+            "rir": 2,
+            "rest_s": 120,
+            "step_kg": 2.5,
+            "note": null
+          },
+          {
+            "exercise_id": "db_lateral",
+            "name": "Dumbbell lateral raise",
+            "pattern": "lateral_raise",
+            "muscle": "shoulders",
+            "tier": 3,
+            "sets": 2,
+            "rep_low": 12,
+            "rep_high": 20,
+            "rir": 1,
+            "rest_s": 75,
+            "step_kg": 1.0,
+            "note": null
+          },
+          {
+            "exercise_id": "face_pull",
+            "name": "Face pull",
+            "pattern": "rear_delt",
+            "muscle": "rear_delts",
+            "tier": 3,
+            "sets": 4,
+            "rep_low": 12,
+            "rep_high": 20,
+            "rir": 1,
+            "rest_s": 75,
+            "step_kg": 2.5,
+            "note": null
+          },
+          {
+            "exercise_id": "overhead_cable_ext",
+            "name": "Overhead cable extension",
+            "pattern": "triceps_extension",
+            "muscle": "triceps",
+            "tier": 3,
+            "sets": 3,
+            "rep_low": 12,
+            "rep_high": 20,
+            "rir": 1,
+            "rest_s": 75,
+            "step_kg": 2.5,
+            "note": null
+          },
+          {
+            "exercise_id": "incline_curl",
+            "name": "Incline dumbbell curl",
+            "pattern": "curl",
+            "muscle": "biceps",
+            "tier": 3,
+            "sets": 3,
+            "rep_low": 12,
+            "rep_high": 20,
+            "rir": 1,
+            "rest_s": 75,
+            "step_kg": 1.0,
+            "note": null
+          },
+          {
+            "exercise_id": "skull_crusher",
+            "name": "EZ-bar skull crusher",
+            "pattern": "triceps_extension",
+            "muscle": "triceps",
+            "tier": 3,
+            "sets": 3,
+            "rep_low": 12,
+            "rep_high": 20,
+            "rir": 1,
+            "rest_s": 75,
+            "step_kg": 2.5,
+            "note": null
+          }
+        ]
+      },
+      {
+        "key": "lower_b",
+        "name": "Lower B",
+        "focus": "Hinge-led",
+        "minutes": 63,
+        "exercises": [
+          {
+            "exercise_id": "deadlift",
+            "name": "Deadlift",
+            "pattern": "hinge",
+            "muscle": "hamstrings",
+            "tier": 1,
+            "sets": 3,
+            "rep_low": 5,
+            "rep_high": 8,
+            "rir": 2,
+            "rest_s": 150,
+            "step_kg": 5.0,
+            "note": null
+          },
+          {
+            "exercise_id": "walking_lunge",
+            "name": "Walking lunge",
+            "pattern": "lunge",
+            "muscle": "quads",
+            "tier": 2,
+            "sets": 4,
+            "rep_low": 8,
+            "rep_high": 12,
+            "rir": 2,
+            "rest_s": 120,
+            "step_kg": 2.0,
+            "note": null
+          },
+          {
+            "exercise_id": "db_hip_thrust",
+            "name": "Dumbbell hip thrust",
+            "pattern": "hip_thrust",
+            "muscle": "glutes",
+            "tier": 2,
+            "sets": 4,
+            "rep_low": 8,
+            "rep_high": 12,
+            "rir": 2,
+            "rest_s": 120,
+            "step_kg": 2.0,
+            "note": null
+          },
+          {
+            "exercise_id": "lying_leg_curl",
+            "name": "Lying leg curl",
+            "pattern": "knee_flexion",
+            "muscle": "hamstrings",
+            "tier": 3,
+            "sets": 3,
+            "rep_low": 12,
+            "rep_high": 20,
+            "rir": 1,
+            "rest_s": 75,
+            "step_kg": 5.0,
+            "note": null
+          },
+          {
+            "exercise_id": "seated_calf",
+            "name": "Seated calf raise",
+            "pattern": "calf",
+            "muscle": "calves",
+            "tier": 3,
+            "sets": 4,
+            "rep_low": 12,
+            "rep_high": 20,
+            "rir": 1,
+            "rest_s": 75,
+            "step_kg": 5.0,
+            "note": null
+          },
+          {
+            "exercise_id": "hanging_leg_raise",
+            "name": "Hanging leg raise",
+            "pattern": "core",
+            "muscle": "abs",
+            "tier": 3,
+            "sets": 4,
+            "rep_low": 12,
+            "rep_high": 25,
+            "rir": 1,
+            "rest_s": 75,
+            "step_kg": 0.0,
+            "note": null
+          }
+        ]
+      }
+    ],
+    "volume": [
+      {
+        "muscle": "chest",
+        "sets": 8,
+        "target": 14
+      },
+      {
+        "muscle": "back",
+        "sets": 11,
+        "target": 14
+      },
+      {
+        "muscle": "shoulders",
+        "sets": 6,
+        "target": 11
+      },
+      {
+        "muscle": "rear_delts",
+        "sets": 4,
+        "target": 8
+      },
+      {
+        "muscle": "biceps",
+        "sets": 11,
+        "target": 14
+      },
+      {
+        "muscle": "triceps",
+        "sets": 10,
+        "target": 14
+      },
+      {
+        "muscle": "quads",
+        "sets": 12,
+        "target": 14
+      },
+      {
+        "muscle": "hamstrings",
+        "sets": 12,
+        "target": 11
+      },
+      {
+        "muscle": "glutes",
+        "sets": 8,
+        "target": 8
+      },
+      {
+        "muscle": "calves",
+        "sets": 8,
+        "target": 8
+      },
+      {
+        "muscle": "abs",
+        "sets": 8,
+        "target": 8
+      }
+    ],
+    "block": [
+      {
+        "n": 1,
+        "label": "Settle in",
+        "rir": 3,
+        "volume_pct": 100,
+        "deload": false
+      },
+      {
+        "n": 2,
+        "label": "Build",
+        "rir": 2,
+        "volume_pct": 100,
+        "deload": false
+      },
+      {
+        "n": 3,
+        "label": "Push",
+        "rir": 1,
+        "volume_pct": 110,
+        "deload": false
+      },
+      {
+        "n": 4,
+        "label": "Overreach",
+        "rir": 1,
+        "volume_pct": 110,
+        "deload": false
+      },
+      {
+        "n": 5,
+        "label": "Deload",
+        "rir": 4,
+        "volume_pct": 60,
+        "deload": true
+      }
+    ],
+    "progression": [
+      "Double progression: add reps within the range first. Once every set hits the top, add load and start again at the bottom.",
+      "Follow the block: week by week, finish each set with fewer reps in reserve, then deload in week 5 with fewer sets and lighter efforts."
+    ],
+    "warmup": "5 minutes of easy cardio, then 2–3 ramp-up sets before the first exercise: 50% × 8, 70% × 5, 85% × 2."
+  },
+  "notes": [
+    {
+      "topic": "Energy",
+      "text": "Resting burn 1768 kcal (Mifflin–St Jeor), × 1.25 for daily movement, plus ~240 kcal a day for 4 sessions of 75 min: maintenance is about 2449 kcal."
+    },
+    {
+      "topic": "Rate",
+      "text": "Gaining about 0.18 kg a week (1.0% a month) from a 201 kcal surplus, sized for an intermediate lifter so most of it is muscle."
+    },
+    {
+      "topic": "Macros",
+      "text": "Protein 145 g (1.8 g/kg), the lever that protects and builds muscle. Fat 80 g for hormones. Carbs fill the rest (340 g) to fuel training."
+    },
+    {
+      "topic": "Split",
+      "text": "Upper/lower over four days trains each muscle twice a week with enough recovery between sessions."
+    },
+    {
+      "topic": "Focus",
+      "text": "Biceps, Triceps get extra direct sets and an added isolation exercise."
+    },
+    {
+      "topic": "Volume",
+      "text": "To fit 75-minute sessions, chest, shoulders, rear delts, triceps sit below the ideal weekly sets. Longer sessions or one more day would close the gap."
+    },
+    {
+      "topic": "Volume",
+      "text": "Sets are sized for an intermediate lifter and fit your 75-minute sessions. The longest runs about 74 min, including warm-up."
+    }
+  ]
+}
